@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome To Primus learning.</h1>
+<h1 align="center">Welcome To Africa Procloud.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires and billionaires IT professionals from zero to hero in over 50 nations.
 	We offer training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.</h1>
@@ -51,6 +51,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
 
 
 
