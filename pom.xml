@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>INTL Technologies Releases Nexus Repository</name>
-	      <url>http://3.1.8.167:8081/repository/maven-release-repo/</url>
+	      <url>http://18.141.191.96:8081/repository/maven-release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>INTL Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://3.1.8.167:8081/repository/maven-snapshot-repo/</url>
+	      <url>http://18.141.191.96:8081/repository/maven-snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
