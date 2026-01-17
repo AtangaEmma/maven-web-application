@@ -146,7 +146,7 @@
 		    <plugin>
                 <groupId>org.sonarsource.scanner.maven</groupId>
                 <artifactId>sonar-maven-plugin</artifactId>
-                <version>10.23.0</version> <!-- Specify the correct SonarQube version -->
+                <version>3.9.0.2155</version> <!-- Specify the correct SonarQube version -->
             </plugin>
 			
 </plugins>
