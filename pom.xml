@@ -19,7 +19,7 @@
 
 	<properties>
 		<jdk.version>11</jdk.version>
-		<spring.version>24.12.0.100206.RELEASE</spring.version>
+		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://54.160.183.0:9000/</sonar.host.url> 
@@ -143,6 +143,11 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
+		    <plugin>
+                <groupId>org.sonarsource.scanner.maven</groupId>
+                <artifactId>sonar-maven-plugin</artifactId>
+                <version>24.12.0.100206</version> <!-- Specify the correct SonarQube version -->
+            </plugin>
 			
 </plugins>
 	</build>
