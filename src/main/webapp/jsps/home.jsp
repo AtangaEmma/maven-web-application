@@ -12,7 +12,7 @@
 <h1 align="center">Welcome To Solavisetech Grace batch Class</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires and billionaires IT professionals from zero to hero in over 50 nations.
-	We offer training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.</h1>
+	We offer training for DevOps with Linux, Kubernetes, data science and Cloud, equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -51,6 +51,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 
 </body>
 </html>
+
 
 
 
